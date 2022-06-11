@@ -12,3 +12,4 @@ while n>0:
     if len(num)==2:
     num[0],num[1] = num[1], num[0]
 
+
